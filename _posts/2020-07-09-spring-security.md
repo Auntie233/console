@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Spring Security使用方法简单整理
-date:   2020-07-09 13:41
+date:   2020-07-09
 ---
 
 # 1. Spring Security
