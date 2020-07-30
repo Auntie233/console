@@ -2,9 +2,9 @@
 
 #google_analytics: UA-NNNNNNNN-N
 
-#header_pages:
-#  - index.md
-#  - about.md
+header_pages:
+ - index.md
+ - about.md
 
 #footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
 
@@ -13,3 +13,10 @@
 
 plugins:
   - jekyll-seo-tag
+
+comments: 
+  enable: true
+  type: valine
+  nickname: T
+  appId: bU1mmheP9KoEbUxasWEhoMNL-gzGzoHsz
+  appKey: 5T6dSLSeQD0ynN6DSjwgWACg
