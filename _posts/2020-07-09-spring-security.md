@@ -2,6 +2,9 @@
 layout: post
 title: Spring Security使用方法简单整理
 date:   2020-07-09
+music-id: 366156
+music-type: song
+music-source: netease
 ---
 
 # 1. Spring Security
