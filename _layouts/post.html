@@ -2,10 +2,6 @@
 layout: default
 ---
 
-{% if page.music-id %}
-    {% include a-player.html %}
-{% endif %} 
-
 <h1 class="title">{{ page.title }}
     <span style="font-size: 12.5px;font-weight: normal;">
         {%- assign date_format = "%Y-%m-%d" -%}
@@ -14,7 +10,6 @@ layout: default
 </h1>
 
 {{ content }}
-
 
 <div class="split" >Comments</div>
 {% include valine-comments.html %}
