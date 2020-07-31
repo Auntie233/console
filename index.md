@@ -1,5 +1,5 @@
 ---
-title: /
+title: 中年日记
 layout: home
 permalink: /
 ---
