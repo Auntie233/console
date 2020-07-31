@@ -6,7 +6,7 @@ header_pages:
  - index.md
  - about.md
 
-#footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
+footer: Be cool, Be patient
 
 #style: light # dark (default) or light
 #listen_for_clients_preferred_style: true # true or false (default)
@@ -17,6 +17,6 @@ plugins:
 comments: 
   enable: true
   type: valine
-  nickname: T
+  nickname: taihao
   appId: bU1mmheP9KoEbUxasWEhoMNL-gzGzoHsz
   appKey: 5T6dSLSeQD0ynN6DSjwgWACg

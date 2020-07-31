@@ -2,6 +2,13 @@
 layout: default
 ---
 
+<h1 class="title">{{ page.title }}
+    <span style="font-size: 12.5px;font-weight: normal;">
+        {%- assign date_format = "%Y-%m-%d" -%}
+        <time>[{{ page.date | date: date_format }}]</time>
+    </span>
+</h1>
+
 {{ content }}
 
 
