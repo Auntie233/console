@@ -1,5 +1,5 @@
 ---
-title: 邰老姨
+title: 老姨日记
 layout: home
 permalink: /
 ---
