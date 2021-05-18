@@ -15,6 +15,7 @@ gems: [jekyll-mermaid]
 
 plugins:
   - jekyll-seo-tag
+  - jekyll-mermaid
 
 comments: 
   enable: true
