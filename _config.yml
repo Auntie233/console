@@ -15,6 +15,10 @@ plugins:
   - jekyll-seo-tag
   - jekyll-mermaid
 
+mermaid:
+  src: /assets/mermaid.min.js
+
+
 comments: 
   enable: true
   type: valine
