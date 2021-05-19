@@ -1,1 +1,14 @@
 <script src='/assets/mermaid.min.js'></script>
+<script>
+    var config = {
+        theme: forest,
+        startOnLoad:true,
+        flowchart:{
+          useMaxWidth:true,
+          htmlLabels:true,
+          curve:'cardinal',
+        },
+        securityLevel:'loose',
+    };
+    mermaid.initialize(config);
+</script>
