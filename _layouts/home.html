@@ -21,7 +21,7 @@ layout: default
 <div class="split" >tips(or bla)</div>
 {%- if site.posts.size > 0 -%}
 <ul>
-  {%- for post in site.posts offset:3 limit:3 -%}
+  {%- for post in site.posts limit:3 -%}
   {%- if post.type == 'tip' -%}
   <li style="text-align: right;">
     {%- assign date_format = "%Y-%m-%d" -%}
